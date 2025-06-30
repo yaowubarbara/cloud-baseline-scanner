@@ -1,9 +1,4 @@
 
----
-
-## 2. `iac/vulnerable_lab.tf`  —— **故意“有洞”的实验环境**
-
-```hcl
 terraform {
   required_providers {
     aws = {
