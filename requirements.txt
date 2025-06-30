@@ -1,0 +1,3 @@
+boto3==1.34.18
+scoutsuite==5.12.0
+weasyprint==62.1
